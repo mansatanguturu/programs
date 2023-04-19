@@ -1,0 +1,8 @@
+base=int(input('enter base'))
+h=int(input('enter height'))
+s=int(input('enter side'))
+l=int(input('enter length'))
+b=int(input('enter breadth'))
+print(l*b,'is the area of rectangle')
+print('the area of triangle is',0.5*base*h)
+print(s*s,'is the area of square')
